@@ -1,0 +1,14 @@
+C:\Users\Vinay G\source\repos\Lecturerss\bin\Debug\Lecturerss.exe.config
+C:\Users\Vinay G\source\repos\Lecturerss\bin\Debug\Lecturerss.exe
+C:\Users\Vinay G\source\repos\Lecturerss\bin\Debug\Lecturerss.pdb
+C:\Users\Vinay G\source\repos\Lecturerss\obj\Debug\Lecturerss.csprojAssemblyReference.cache
+C:\Users\Vinay G\source\repos\Lecturerss\obj\Debug\Lecturerss.Allocdetcs.resources
+C:\Users\Vinay G\source\repos\Lecturerss\obj\Debug\Lecturerss.AllocSub.resources
+C:\Users\Vinay G\source\repos\Lecturerss\obj\Debug\Lecturerss.Form1.resources
+C:\Users\Vinay G\source\repos\Lecturerss\obj\Debug\Lecturerss.Lecturer.resources
+C:\Users\Vinay G\source\repos\Lecturerss\obj\Debug\Lecturerss.Properties.Resources.resources
+C:\Users\Vinay G\source\repos\Lecturerss\obj\Debug\Lecturerss.Subject.resources
+C:\Users\Vinay G\source\repos\Lecturerss\obj\Debug\Lecturerss.csproj.GenerateResource.cache
+C:\Users\Vinay G\source\repos\Lecturerss\obj\Debug\Lecturerss.csproj.CoreCompileInputs.cache
+C:\Users\Vinay G\source\repos\Lecturerss\obj\Debug\Lecturerss.exe
+C:\Users\Vinay G\source\repos\Lecturerss\obj\Debug\Lecturerss.pdb
